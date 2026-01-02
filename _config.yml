@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Sarah Sorahi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "MA in Computational Linguistics · HHU Düsseldorf · "
+  bio    : "Computational Linguistics . NLP · Data Projects
+ · "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
