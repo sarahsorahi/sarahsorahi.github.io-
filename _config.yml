@@ -62,16 +62,13 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Computational Linguistics . NLP · Data Projects
  · "
-    links:
-    
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:sarahsorahi77@gmail.com"
-
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sarahsorahi"
-
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sara-sorahi-6b970378/"
