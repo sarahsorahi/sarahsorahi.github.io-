@@ -4,8 +4,6 @@ layout: single
 permalink: /about/
 author_profile: true
 ---
-<h2 style="color:#4b5563; font-weight:500; letter-spacing:0.04em;">
-About
 </h2>
 
 <div style="max-width:820px; margin-top:2rem; font-size:0.95rem; line-height:1.75; font-family: 'Georgia', 'Times New Roman', serif;">
@@ -22,7 +20,7 @@ I am currently an MA student in Linguistics, writing my master’s thesis on <em
 In parallel, I work in a modern bridal company managing data- and AI-related projects within cross-cultural collaborations. My role involves coordinating project workflows and supporting the integration of AI-driven solutions to improve efficiency and user engagement.
 </p>
 
-<p style="margin-top:1.8rem; font-style:italic; color:#374151;">
+<p style="margin-top:1.8rem; font-style:italic;">
 Overall, I enjoy working at the intersection of language, technology, and real-world problem solving, and I’m motivated by projects that connect analytical thinking with human-centered design.
 </p>
 
