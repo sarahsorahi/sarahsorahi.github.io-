@@ -1,3 +1,9 @@
+---
+title: "About"
+layout: single
+permalink: /about/
+author_profile: true
+---
 <h2 style="color:#4b5563; font-weight:500; letter-spacing:0.04em;">
 About
 </h2>
