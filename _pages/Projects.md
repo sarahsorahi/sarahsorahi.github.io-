@@ -41,6 +41,4 @@ Project page
 </a>
 </p>
 
-</div>
-
 
