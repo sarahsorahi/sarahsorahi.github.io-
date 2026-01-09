@@ -1,3 +1,11 @@
+---
+title: "Projects"
+layout: single
+permalink: /projects/
+author_profile: false
+---
+
+
 ### Project 1 — Word Function Classification
 *2024- 2026
 I work on **data augmentation, clustering, and model training** to identify the function of a word in sentence context. The project focuses on improving robustness when annotated data is limited and on understanding functional variation through contextual patterns.  
