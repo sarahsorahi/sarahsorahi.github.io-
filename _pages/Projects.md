@@ -16,7 +16,8 @@ author_profile: false
 <h4 style="font-weight:500; margin-bottom:0.5rem;">
 Word Function Classification
 </h4>
-
+<p style="font-style:italic; margin-top:0;">
+2024 – 2026
 <p>
 I work on data augmentation, clustering, and model training to identify the function of a word in sentence context, with a focus on improving robustness when annotated data is limited.
 <p style="margin-top:0.5rem;">
@@ -30,7 +31,7 @@ Noun–Verb Asymmetries
 </h4>
 
 <p style="font-style:italic; margin-top:0;">
-Spring 2025 – Spring 2028
+2025 –2026
 </p>
 <p>
 I contribute to the data and training pipeline of a long-term project on noun–verb asymmetries, focusing on processing and training Montreal Forced Aligner (MFA) outputs and supporting reproducible workflows.
