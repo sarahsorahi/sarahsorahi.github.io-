@@ -9,7 +9,7 @@ author_profile: false
   margin-top:2rem;
   font-size:0.88rem;
   line-height:1.7;
-  color:#374151;
+  color:#ffffff;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 ">
 
