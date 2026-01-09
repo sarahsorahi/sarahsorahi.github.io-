@@ -13,12 +13,8 @@ author_profile: false
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 ">
 
-<p style="margin-bottom:2rem;">
-I work on data- and NLP-driven projects that combine modeling, training pipelines, and structured workflows.
-</p>
-
 <h4 style="font-weight:500; margin-bottom:0.5rem;">
-Project 1 — Word Function Classification
+Word Function Classification
 </h4>
 
 <p>
@@ -36,7 +32,7 @@ In collaboration with Kevin Tang.
 <hr style="margin:2.5rem 0; border:0; border-top:1px solid #e5e7eb;" />
 
 <h4 style="font-weight:500; margin-bottom:0.5rem;">
-Project 2 — Noun–Verb Asymmetries
+Noun–Verb Asymmetries
 </h4>
 
 <p style="font-style:italic; margin-top:0;">
